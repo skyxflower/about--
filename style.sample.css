@@ -1,0 +1,24 @@
+@import url(sanitize.css);
+.content {
+    text-align: center;
+    background-color: rgb(213, 241, 203);
+    width: 600px;
+}
+h1 {
+    font-size: 28px;
+    margin: 20px;
+    color: purple;
+}
+h3 {
+    font-size: 20px;
+    margin: 0;
+    color: maroon;
+}
+h4 {
+    font-size: 18px;
+    margin: 0;
+    color: green;
+}
+p {
+    font-size: 16px;
+}
